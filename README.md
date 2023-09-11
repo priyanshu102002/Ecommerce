@@ -1,5 +1,5 @@
 # Ecommerce
-This is E-Commerce Website where I have learned so many new thigs in Css espically making Cards.
+This is E-Commerce Website where I have learned so many new things in Css espically making Cards.
 
 Tech Stacks Used : HTML , CSS and Javascript
 
